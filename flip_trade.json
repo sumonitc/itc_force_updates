@@ -1,6 +1,14 @@
 {
-  "latestVersion": "1.0.0",
-  "minimumRequiredVersion": "1.0.0",
-  "forceUpdate": true,
-  "updateUrl": "https://play.google.com/store/apps/details?id=com.fliptrade.group"
+  android: {
+    "latestVersion": "1.0.0",
+    "minimumRequiredVersion": "1.0.0",
+    "forceUpdate": true,
+    "updateUrl": "https://play.google.com/store/apps/details?id=com.fliptrade.group"
+  },
+  ios:{
+    "latestVersion": "1.0.0",
+    "minimumRequiredVersion": "1.0.0",
+    "forceUpdate": true,
+    "updateUrl": "https://apps.apple.com/us/app/fliptradegroup/id6469585678"
+  }
 }
